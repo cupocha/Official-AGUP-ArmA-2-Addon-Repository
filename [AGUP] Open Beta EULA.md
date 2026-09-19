@@ -63,7 +63,7 @@ No permission is granted until explicitly confirmed in writing by the author.
 
 ## 6. Credits
 
-AGUP includes content from various original authors who are credited in the included **.[AGUP] Credits.md** document. All original authors retain full rights to their respective content.
+The AGUP early preview incorporates content from various original creators; however, the current credits file exclusively acknowledges CBA. This limited attribution is temporary, reflecting the project's early preview status. A comprehensive and complete credits file honoring all contributors will be included in the full v1.0 release.
 
 ---
 
