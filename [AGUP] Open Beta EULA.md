@@ -36,7 +36,7 @@ You are **NOT** permitted to:
 
 ## 4. Beta Notice
 
-AGUP v0.2 is an **Open Beta** release. It is incomplete, may contain bugs, missing content, or instability. It does not represent the final state of the modpack. Features, content, and files are subject to change in future releases.
+AGUP open beta is an **Open Beta** release. It is incomplete, may contain bugs, missing content, or instability. It does not represent the final state of the modpack. Features, content, and files are subject to change in future releases.
 
 ---
 
