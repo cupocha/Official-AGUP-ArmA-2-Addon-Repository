@@ -1,6 +1,6 @@
 # AGUP (Air & Ground Units Pack) — End User License Agreement (EULA)
 
-**Effective as of 2026-09-17**
+**Effective as of 2026-09-19**
 **By Lieutenant Cupocha**
 
 ---
