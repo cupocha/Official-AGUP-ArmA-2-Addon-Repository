@@ -64,7 +64,7 @@ This means:
 - If a modified version of AGUP is distributed without permission, both users and the author can verify the tampering.
 - Verified tampering combined with unauthorized redistribution may be grounds for legal action.
 
-Hash database: https://raw.githubusercontent.com/cupocha/Official-AGUP-ArmA-2-Addon-Repository/refs/heads/main/AGUP_File_Hashes.json
+Hash database: https://raw.githubusercontent.com/cupocha/Official-AGUP-ArmA-2-Addon-Repository/refs/heads/main/%5BAGUP%5D%20File%20Hashes.json
 
 ---
 
