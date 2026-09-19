@@ -36,7 +36,7 @@ You are **NOT** permitted to:
 
 ## 4. Beta Notice
 
-AGUP early preview is an **Open Beta** release. It is incomplete, may contain bugs, missing content, or instability. It does not represent the final state of the modpack. Features, content, and files are subject to change in future releases.
+The AGUP early preview is an Open Beta release. As a development version, it is currently incomplete and may exhibit stability issues, software bugs, or missing content. This version does not represent the final quality or state of the modpack. All features, assets, and files are subject to modification, removal, or replacement in future updates leading to the v1.0 release.
 
 ---
 
@@ -69,7 +69,7 @@ The AGUP early preview incorporates content from various original creators; howe
 
 ## 7. Disclaimer
 
-AGUP v0.2 Open Beta is provided **as-is** with no warranty of any kind. The author is not responsible for any damage, data loss, or issues caused by the use of this modpack.
+The AGUP Open Beta (also referred to as the Early Preview) is provided on an "as-is" basis, without warranties or conditions of any kind, either express or implied. The author assumes no liability or responsibility for any hardware damage, data loss, software conflicts, or other issues resulting from the installation or execution of this modpack. Users install and operate this software entirely at their own risk.
 
 ---
 
